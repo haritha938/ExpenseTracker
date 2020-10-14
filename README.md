@@ -4,3 +4,5 @@ Functionalities Description: Once user launches the application, user needs to b
 In categories, user will be displayed with few default categories. Along with that user will be provided with an option to add his/her own categories anytime. User can also delete the same if not needed. A category cannot be deleted if it is being used as an expense already.
 In reports, user can choose a range of dates and has option to view report of daily expenses or daily savings. App supports any range of dates and provide reports.
 Database: SQLite
+
+[![Expense-Tracker-Screen-shot1.png](https://i.postimg.cc/yY6G2TWb/Expense-Tracker-Screen-shot1.png)](https://postimg.cc/Rq8GHK77)
